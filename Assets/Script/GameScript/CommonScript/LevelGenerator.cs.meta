@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 178257324b2d26643b6aa953556873a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _defaultPlatform: {fileID: 7484160884637242121, guid: 30ce994c7dca74e4b82c46392442a148, type: 3}
+  - _jumpPlatform: {fileID: 2304179141565908302, guid: 158178b029bb4354fa3f213e8d5133cc, type: 3}
+  - _coin: {fileID: 1283926682549645444, guid: ca04b30539c8a0041a57b36e5b2753a5, type: 3}
+  - _character: {fileID: 7063077993875074762, guid: b01c67d2a80eb82478f7d86a9d5ed613, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
